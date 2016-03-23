@@ -1,0 +1,6 @@
+{
+  "name": "Web Template",
+  "tagline": "Web Project Templates.",
+  "body": "# WebProject-Templates\r\nInitial Web Project Templates.  \r\nApply of HTML5 and CSS3 to build.  \r\nApplies to Web sites and mobile phones and other mobile devices.\r\n\r\n\r\nComponents used are:  \r\n- Normalize.css v3.0.2\r\n- Bootstrap v3.3.5\r\n- jQuery v1.11.3\r\n- jQuery v2.1.4\r\n- HTML5 Shiv 3.7.2\r\n- Respond.js v1.4.2\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
